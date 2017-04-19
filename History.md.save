@@ -1,23 +1,12 @@
-Sup Sup
-
-unreleased
-==========
-
-  * deps: debug@2.6.3
-    - Fix: `DEBUG_MAX_ARRAY_LENGTH`
-  * deps: finalhandler@~1.0.1
-    - Fix missing `</html>` in HTML document
-    - deps: debug@2.6.3
-  * deps: proxy-addr@~1.1.4
-    - deps: ipaddr.js@1.3.0
-  * deps: vary@~1.1.1
-    - perf: hoist regular expression
-
-4.15.2 / 2017-03-06
-===================
-
-  * deps: qs@6.4.0
-    - Fix regression parsing keys starting with `[`
+Collaborator-Guide.mdunreleased ========== Contributing.md History.md * 
+deps: debug@2.6.3 LICENSE - Fix: `DEBUG_MAX_ARRAY_LENGTH` 
+Readme-Guide.md * deps: finalhandler@~1.0.1 Readme.md - Fix missing 
+`</html>` in HTML document Release-Process.md - deps: debug@2.6.3 
+Security.md * deps: proxy-addr@~1.1.4 appveyor.yml - deps: 
+ipaddr.js@1.3.0 benchmarks * deps: vary@~1.1.1 examples - perf: hoist 
+regular expression index.js 4.15.2 / 2017-03-06 =================== lib 
+package.json * deps: qs@6.4.0 test - Fix regression parsing keys 
+starting with `[`
 
 4.15.1 / 2017-03-05
 ===================
